@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this
 project adheres to [Semantic Versioning](http://semver.org/).
 
+## [12.0.0](https://github.com/terraform-google-modules/terraform-google-sql-db/compare/v11.0.0...v12.0.0) (2022-08-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* adds availability_type for read_replicas (#329)
+
+### Features
+
+* adds availability_type for read_replicas ([#329](https://github.com/terraform-google-modules/terraform-google-sql-db/issues/329)) ([e26861e](https://github.com/terraform-google-modules/terraform-google-sql-db/commit/e26861e5736d7001994ef7e99e72b4ecf6fea22c))
+
 ## [11.0.0](https://github.com/terraform-google-modules/terraform-google-sql-db/compare/v10.1.0...v11.0.0) (2022-06-02)
 
 
